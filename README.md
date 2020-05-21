@@ -1,7 +1,7 @@
 # ChemE7770_Final_Project_Report
 ChemE7770_Final_Project_Report
 
-Author: Xiaojing Ma (xm89) & Tina Ye (ty369)
+Authors: Xiaojing Ma (xm89) & Tina Ye (ty369)
 Date: May 21, 2020
 
 This folder contians:
